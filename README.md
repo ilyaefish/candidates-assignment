@@ -75,12 +75,6 @@ Script to update configuration should be put in the following files.
 * `exercise5-fix_server1.sh`
 * `exercise5-fix_server2.sh`
 
-#### Deliverables
-A GitHub Pull-Request to **YOUR DUPLICATED REPO**, containing all the scripts mentioned above with the solutions to the exercises.
-
-PLEASE make sure your Pull Request contains all the requirements above, and doesn't contain any code you didn't change.
-
-The Pull-Request should contain a file with your name and email (contact-details.txt) 
 
 all fix scripts should be under vagrant/fixScripts
 
